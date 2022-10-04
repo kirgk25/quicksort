@@ -24,6 +24,7 @@ function quickSort(array $array): array
     $left = [];
     $right = [];
 
+    // we've got element with index 0 as pivot that's why we start loop from index 1
     for ($i = 1; $i < $arrayLength; $i++) {
         if ($array[$i] < $pivot) {
             $left[] = $array[$i];
