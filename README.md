@@ -1,3 +1,3 @@
 # Quick sort 
 
-Example of __quick sort__ using __PHP__   
+__Quick sort__ using __PHP__   
